@@ -2,7 +2,7 @@
     "name" : "Template 404",
     "layout": "custom_theme",
     "wrapper": "div#404template.custom-class[custom-attribute=hello]",
-    "section": {
+    "sections": {
         "template-404":{
             "type": "example-404"
         }
